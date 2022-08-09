@@ -1,0 +1,8 @@
+vscode:
+  extensions:
+    - angular.ng-template
+    - johnpapa.angular2
+    - mtxr.sqltools
+    - mtxr.sqltools-driver-pg
+    - steoates.autoimport
+    - infinity1207.angular2-switcher
